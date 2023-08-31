@@ -9,7 +9,6 @@ This project demonstrates motion filtering using OpenCV and Python. Motion filte
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Video](#video)
 - [Usage](#usage)
   - [Input Video](#input-video)
   - [Output Video](#output-video)
@@ -36,22 +35,6 @@ Before you begin, ensure you have met the following requirements:
    ```shell
    git clone https://github.com/yourusername/motion-filtering-with-opencv.git
    ```
-
-## Video
-
-1. output video
-
-<video width="640" height="360" controls>
-  <source src="output_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-2. output video 2
-
-<video width="640" height="360" controls>
-  <source src="output_video 2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Usage
 
